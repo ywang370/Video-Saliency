@@ -10,10 +10,10 @@ Spatiotemporal Saliency Detector
 If you use the code please cite the paper :
 
 
-@article{wangefficient,
+     @article{wangefficient,
         title={Efficient Unsupervised Abnormal Crowd Activity Detection Based on a Spatiotemporal Saliency Detector},
         author={Wang, Yilin and Zhang, Qiang and Li, Baoxin}
         booktitle={WACV},
-        year={2016}
- }
+         year={2016}
+      }
  
